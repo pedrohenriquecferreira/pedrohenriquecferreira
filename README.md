@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=700&size=45&pause=500&speed=60&color=F7F7F7&cursorColor=ff6347&center=true&vCenter=true&width=600&lines=Hi.+I'm+Pedro;I'm+from+S%C3%83O+PAULO;Welcome!;Learning+about...;Technology...;Development...;Artificial+Intelligence...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&weight=700&size=45&pause=500&speed=60&color=0B0B61&cursorColor=0B0B61&center=true&vCenter=true&width=600&lines=Hi.+I'm+Pedro;I'm+from+S%C3%83O+PAULO;Welcome!;Learning+about...;Technology...;Development...;Artificial+Intelligence...)](https://git.io/typing-svg)
 
 🚀 Currently working on a *UNIVERSITY E-COMMERCE* project.    
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/pedroh-carvalhof/)  
